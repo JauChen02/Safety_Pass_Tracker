@@ -1,0 +1,5 @@
+pass_type_id,name,description,category,validity_period_days
+CONFINED_SPACE,Confined Space Entry,Entry permit for confined spaces,Safety,365
+HEIGHTS,Working at Heights,Permit for working at elevated positions,Safety,180
+HOT_WORK,Hot Work Permit,"Permit for welding, cutting, and hot work",Operations,90
+ELECTRICAL,Electrical Work Permit,Permit for electrical maintenance work,Technical,270

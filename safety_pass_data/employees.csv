@@ -1,0 +1,4 @@
+employee_id,name,email,department,manager
+EMP001,John Smith,john.smith@company.com,Engineering,Jane Manager
+EMP002,Alice Johnson,alice.johnson@company.com,Safety,Bob Supervisor
+EMP003,Mike Brown,mike.brown@company.com,Operations,Jane Manager
